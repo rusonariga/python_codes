@@ -1,6 +1,6 @@
 ----------------------- P G P dev --------------------------------------------------
 
-Cursor auto move
+## Cursor auto move
 
 Ideal to backgroud run when you need to be "online" for remote work
 
