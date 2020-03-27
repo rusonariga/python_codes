@@ -11,8 +11,8 @@ Ideal to backgroud run when you need to be "online" for remote work
 
 
 ## Libraries used
-* '''import''' pyautogui
-* '''import''' pynput
-* time
+* __import__ pyautogui
+* __import__ pynput
+* __import__ time
 
 ----------------------- P G P dev --------------------------------------------------
