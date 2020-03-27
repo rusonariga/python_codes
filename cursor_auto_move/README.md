@@ -1,7 +1,8 @@
 ----------------------- P G P dev --------------------------------------------------
 
-## Cursor auto move
+# Cursor auto move
 
+## Code description
 Ideal to backgroud run when you need to be "online" for remote work
 
 *   Present code allows to self move the mouse cursor from left to right at the upper left side of the screen.
@@ -9,9 +10,9 @@ Ideal to backgroud run when you need to be "online" for remote work
 *   To terminate the process, press "Esc" key
 
 
-LIBS USED
-* pyautogui
-* pynput
+## Libraries used
+*'''import''' pyautogui
+*'''import''' pynput
 * time
 
 ----------------------- P G P dev --------------------------------------------------
