@@ -15,4 +15,8 @@ Ideal to backgroud run when you need to be "online" for remote work
 * __import__ pynput
 * __import__ time
 
+## Folders include
+*   .py file
+*   .exe for windows
+
 ----------------------- P G P dev --------------------------------------------------
