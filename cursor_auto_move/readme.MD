@@ -1,5 +1,7 @@
 ----------------------- P G P dev --------------------------------------------------
+
 Cursor auto move
+
 Ideal to backgroud run when you need to be "online" for remote work
 
 *   Present code allows to self move the mouse cursor from left to right at the upper left side of the screen.
